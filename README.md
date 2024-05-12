@@ -26,7 +26,7 @@ Insert Screenshot if Applicable
    ```sh
    mv ./kitty/*.conf ./.config/kitty # This is guessing that you're in your HOME directory.
    ```
-   I also personally recommend making a folder called `themes/` inside your `~/.config/kitty` folde for organizing, but you decide if you do it or not.
+   I also personally recommend making a folder called `themes/` inside your `~/.config/kitty` folder for organizing, but you decide if you do it or not.
 3. Check that the files have been moved correctly:
    ```sh
    cd .config/kitty && ls -l # Again, this is guessing that you're still in your HOME directory.
@@ -35,9 +35,8 @@ Insert Screenshot if Applicable
 
 ### 📦 Activating
 Once you complete all the steps mentioned above, you can use your theme! Now, just add this line to the `kitty.conf` file inside `~/.config/kitty`:
-```c
+```
 include Biscuit-Dark.conf
-...
 ```
 
 ### 💝 Thanks To
