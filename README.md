@@ -47,5 +47,5 @@ Thanks to all these amazing people for their work!
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/color-cycle-light.png" alt="Biscuit palette" width="400" />
+  <img src="https://raw.githubusercontent.com/Biscuit-Theme/biscuit/main/assets/extras/rainbow%20line.png" alt="Biscuit palette" width="400" />
 </p>
